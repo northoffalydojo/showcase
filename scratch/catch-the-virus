@@ -1,0 +1,22 @@
+<head>
+<title> Catch the Virus - North Offaly CoderDojo Showcase</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="https://avatars.githubusercontent.com/u/85130491?s=200&v=4">
+</head>
+
+<a href="https://showcase.northoffalydojo.club/scratch">Back to showcase</a>
+
+
+<style>
+body {
+font-family: HK Grotesk, Proxima Nova, -apple-system, Helvetica Neue, Helvetica, Arial, sans-serif; 
+}
+</style>
+
+<center>
+
+<h1 style="color:#009900"> Catch the Virus</h1>
+<h2><b>By Conor</b></h2>
+
+<iframe src="https://scratch.mit.edu/projects/516619297/embed" allowtransparency="true" width="485" height="502" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</center>
