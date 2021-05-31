@@ -1,0 +1,16 @@
+<a href="https://showcase.northoffalydojo.club/html">Back to showcase</a>
+
+<style>
+body {
+font-family: HK Grotesk, Proxima Nova, -apple-system, Helvetica Neue, Helvetica, Arial, sans-serif; 
+}
+</style>
+
+<center>
+
+<h1 style="color:#009900"> Join the Dojo Poster</h1>
+<h2><b>By the HTML Group</b></h2>
+
+<iframe src="https://trinket.io/embed/html/3ea0c44874?showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+</center>
